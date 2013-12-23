@@ -10,3 +10,11 @@ http://pi.minecraft.net/?page_id=10
 minecraft forums
 
 http://www.minecraftforum.net/forum
+
+for screencaps in minecraft use F2, to make the toolbar dissapear use F1
+
+sometimes on Mac fn+F2 or fn+F1 is the right combination.
+
+this will create a date and time stamped .ping file
+
+ 	~/Library/Application Support/minecraft/screenshots is the image location for Mac OSX
