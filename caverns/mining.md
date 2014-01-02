@@ -17,3 +17,5 @@ regular crafting stations with chests and furnaces are a good idea.
 
 diamond ore is usually found between level 10-16, I have found it in level 1-5 so basically it is below level 16.
 
+
+you can place blocks when falling, and gravel can be used this way as well as scaffolding for access to walls.
