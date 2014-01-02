@@ -13,3 +13,7 @@ Uphill Unoccupied car = 1:1
 
 (occupied cars have more momentum. occupied means a mob or person)
 
+powered rails need a redstone torch or lever/button to activate them
+
+alternatively and activator rail can be used
+
