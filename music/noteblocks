@@ -1,0 +1,56 @@
+noteblocks:
+===========
+
+made with redstone and planks
+
+different planks give a different surface
+
+basic diagram
+=============
+
+http://minecraft.gamepedia.com/Note_block
+
+the tone is set by the number of right clocks on the block
+
+a total of 0-12 clicks completes one octave
+
+instrumental tone
+==================
+
+set by the block type underneath the note block:
+
+bass guitar: wood blocks including another note block
+
+snare drum: sand,gravel, soul sand
+
+clicks/sticks: glass
+
+bass drum: bricks, stone based blocks, obsidian, nettherrack
+
+piano/ harp: air, dirt all other blocks.
+
+other rules
+============
+
+note blocks need a block of space aove them
+
+redstone should therefore be set to power them from the sides or bottom.
+
+a switch on the side of a block interferes with the sound
+
+multiple notes can be powered at once creating chords
+
+the visual note is visible for 18 blocks
+
+the audible note is heard for 47 blocks
+
+note blocks cannot be pushed by pistons
+
+
+
+songs
+========
+
+using redstone repeaters and redstone comparators along with sequencing the notes you can make a complete song
+
+adding in chords and percussion can make a full sound.
