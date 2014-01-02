@@ -6,11 +6,15 @@ potato and carrot farm (related to villages)
 
 pumpkin and melon farm
 
+cactus farm
+
 tree farm
 
 these can all be created indoors with lots of light to use them without
 
 having to worry about mobs
+
+the cavern must be at leat 5 blocks high 8 or 12 is better
 
 
 MOB farming:
