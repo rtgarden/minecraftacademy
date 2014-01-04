@@ -7,6 +7,18 @@ in order to help create materials you can create mechanisms that rely on the gli
 
 cobblestone generator
 
+
+rails can be alternated with powered railn and detector rail, thereby saving redstone, simply use regular rails when 
+
+you want to come to a stop. It may be possible to use the activator rail as part of the sequence.
+
+
+
+
+glitch fabrication
+-------------------
+
+
 rail generator glitch machine 1.7.4
 
 
@@ -39,3 +51,12 @@ always use many powered rails going uphill
 a common ratio is 1 powered rail to every 25 regular rails
 
 be careful of the directions of travel and the influence of south and east
+
+switching rails
+----------------
+
+simple switching mechanism can use a lever
+
+fancy switching mechanisms can include entrances for chest carts and hoppers
+
+
