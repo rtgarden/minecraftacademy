@@ -1,4 +1,4 @@
-creating Railway systems in Minecraft:
+Creating Railway systems in Minecraft:
 ======================================
 
 this brings together several activities and in survival mode can be quite challenging.
@@ -74,7 +74,7 @@ a common ratio is 1 powered rail to every 25 regular rails
 
 be careful of the directions of travel and the influence of south and east
 
-switching rails
+Switching Rails
 ----------------
 
 simple switching mechanism can use a lever
@@ -83,6 +83,8 @@ the lever powers the movement of regular rails which are used for switching
 
 a button can also be used for selection of destination systems
 
-fancy switching mechanisms can include entrances for chest carts and hoppers
+fancy switching mechanisms can include entrances for chest carts and hoppers which
+
+are seperate from the ones used by players and detected using trapped carts
 
 
