@@ -17,7 +17,7 @@ powered and detector rails can be alternated to good effect.
  
  minecart chest powered by a furnace by minecart which delivers materials through a hopper to a chest in your station
 
-
+some players have developed elaborate systems of item sorting in these special sections of their station
 
 Making Railways with powered and detector rails:
 ===============================================
