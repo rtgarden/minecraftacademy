@@ -3,11 +3,28 @@ Creating Railway systems in Minecraft:
 
 this brings together several activities and in survival mode can be quite challenging.
 
+a sequence of challenges must be completed in order to produce enough crafted
+
+rail by mining iron and gold and smelting it.
+
+using redstone also you can make the initial powered, detector and activator rails
+
+for making the initial rails used in the glitch machine.
+
+you will have to mine enough iron for the regular rail as it does not
+
+duplicate in survival mode through a glitch
+
+
+
+The Glitch:
+==========
+
 in order to help create materials you can create mechanisms that rely on the glitch:
 
 *cobblestone generator
 
-*rail generators using sticky iston glitch (1.7.4 tested) make powered, detector, and activator rails.
+*rail generators using sticky piston glitch (1.7.4 tested) make powered, detector, and activator rails.
 
 powered and detector rails can be alternated to good effect.
 
@@ -70,9 +87,22 @@ start with a station using a powered rail and a button or switch
 
 always use many powered rails going uphill
 
+there is a limit to the number of powered rails in a row that you can use without a detector rail
+
+around 12
+
+you can power powered rail with levers and buttons,
+
+as well as redstone torches in addition to detector rails
+
+remember torches are broken by snow,
+
+and rails are removed by flowing water so be careful of water flow
+
 a common ratio is 1 powered rail to every 25 regular rails
 
-be careful of the directions of travel and the influence of south and east
+(be careful of the directions of travel and the influence of south and east)
+
 
 Switching Rails
 ----------------
