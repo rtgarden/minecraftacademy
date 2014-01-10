@@ -5,12 +5,34 @@ this brings together several activities and in survival mode can be quite challe
 
 in order to help create materials you can create mechanisms that rely on the glitch:
 
-cobblestone generator
+*cobblestone generator
+
+*rail generators using sticky iston glitch (1.7.4 tested) make powered, detector, and activator rails.
+
+powered and detector rails can be alternated to good effect.
 
 
-rails can be alternated with powered railn and detector rail, thereby saving redstone, simply use regular rails when 
 
-you want to come to a stop. It may be possible to use the activator rail as part of the sequence.
+ It may be possible to use the activator rail as part of the sequence, especially if it involves a
+ 
+ minecart chest powered by a furnace by minecart which delivers materials through a hopper to a chest in your station
+
+
+
+Making Railways with powered and detector rails:
+===============================================
+
+regular rails are needed for:
+
+switching tracks
+
+going around curves
+
+rails can be alternated with powered railn and detector rail
+
+simply use regular rails when 
+
+you want to come to a stop.
 
 
 
