@@ -79,6 +79,10 @@ switching rails
 
 simple switching mechanism can use a lever
 
+the lever powers the movement of regular rails which are used for switching
+
+a button can also be used for selection of destination systems
+
 fancy switching mechanisms can include entrances for chest carts and hoppers
 
 
