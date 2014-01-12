@@ -15,3 +15,7 @@ Desert- no rain, no passive mobs, cactus, sand, desert temples also desert wells
 
 (possibly the presence of much water rules out a village desert M)
 
+
+maps can be useful for detecting both the biome and some of the structures,
+
+depending on the scale of the map you are using.
