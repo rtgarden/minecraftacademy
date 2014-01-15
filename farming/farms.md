@@ -2,10 +2,12 @@ Types of farming systems :
 ====================================================
 
 
-need adjacent water (and light)
+need adjacent water (and light level 9 or more)
 ---------------------------------
 
 wheat, sugar cane, carots, potatoes, pumkin, melon
+
+(if possible alternate rows)
 
 water is generally gathered from a spring or ocean with a bucket and placed in
 
@@ -21,18 +23,20 @@ this creates terraced fields 7 deep for auto-harvesting with water which displac
 
 water will irrigate out for 4 blocks, the most simple farm is a 9square field with one water block in the center.
 
+lily pads can be used to step on
+
 Farm types:
 ===========
 
-wheat farm
+wheat farm (seed source tall grass, wheat harvest)
 
-potato farm (sorce NPC villages, rare zombie drop)
+potato farm (source NPC villages, rare zombie drop)
 
-carrot farm (sorce NPC villages, rare zombie drop)
+carrot farm (source NPC villages, rare zombie drop)
 
-pumpkin farm
+pumpkin farm (source wild pumpkins on a crafting grid)
 
-melon farm
+melon farm (sorce wild melon,)
 
 sugar cane farm:
 =================
@@ -52,6 +56,9 @@ these can all be created indoors with lots of light to use them without
 having to worry about mobs
 
 the cavern must be at leat 5 blocks high 8 or 12 is better
+
+mushroom farm
+============
 
 ice farm
 ========
