@@ -175,6 +175,14 @@ paper is made into books with leather and together with planks books create book
 
 bookcases foem enchantment tables
 
+does not respond to bonemeal
+
+can be placed underwater creating airlocks
+
+can block the flow of lava and water
+
+arrows pass through sugar cane
+
 Cactus farm:
 =============
 
@@ -189,6 +197,8 @@ using hoppers this can be continuous
 cactus can be crafted into dye
 
 cactus can create a unique defensive fence against hostile mobs
+
+does not respond to bonemeal
 
 tree farm
 =========
@@ -213,6 +223,10 @@ dirt and even stone in low light levels
 mushrooms spread autonomously to adjacent blocks.
 
 they can be easily propagated underground in mines.
+
+Vines
+=======
+
 
 
 Nettherrack
