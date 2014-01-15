@@ -27,12 +27,20 @@ lily pads can be used to step on placed on water
 
 dry tilled land around the edge of the planted field increases the vitality of the crops at the edge of the field
 
+crops (except cane) can be cultivated on dry tilled dirt they jusy grow very slow
+
 Farm types:
 ===========
 
-wheat farm (seed source tall grass, wheat harvest)
+wheat farm
+-----------
 
-potato farm (source NPC villages, rare zombie drop)
+(seed source tall grass, wheat harvest)
+
+potato farm
+=============
+
+(source NPC villages, rare zombie drop)
 
 carrot farm 
 ==========
@@ -43,9 +51,19 @@ carrots also help tame horses
 
 
 
-pumpkin farm (source wild pumpkins on a crafting grid)
+pumpkin farm
+------------
 
-melon farm (sorce wild melon,)
+not good for water harvest method
+
+(source wild pumpkins on a crafting grid)
+
+melon farm
+===========
+
+not good for water harvest method
+
+(source wild melon,)
 
 sugar cane farm:
 =================
