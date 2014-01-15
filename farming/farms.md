@@ -90,6 +90,14 @@ wheat farm
 
 (seed source tall grass, wheat harvest)
 
+wheat is used to breed cows and sheep, and tame horses
+
+wheat can be crafted into haybales
+
+wheat can be crafted into bread using 3 wheat on a crafting table
+
+
+
 potato farm
 =============
 
@@ -113,11 +121,19 @@ not good for water harvest method
 
 (source wild pumpkins found in several biomes, seeds in chests)
 
+pumkins crafted with sugar and egg make an edible pie
+
 seeds are crafted on a grid
 
 pumkins are best harvested with an ax
 
 pistons can be used to harvest pumpkins and push them into hoppers
+
+pumpkins crafted with torches make jackolanterns a unique lighting source
+
+which is itself a building block, and can illuminate underwater.
+
+a pumpkin can be worn as a helmet that protects agains endermen
 
 melon farm
 ===========
@@ -126,11 +142,13 @@ not good for water harvest method
 
 melons can be crafted into golden melon slices using golden nuggets and one slice
 
+these can be brewed into healing potions
+
 (source wild melon, found in the jungle, seeds in chests, villagers)
 
 no preffered tool
 
-melons can be sliced, each slice can be crafted for seeds
+melons can be sliced, slices can be eaten. each slice can be crafted for seeds
 
 pistons can be used to break melons into a hopper collector
 
