@@ -23,7 +23,9 @@ this creates terraced fields 7 deep for auto-harvesting with water which displac
 
 water will irrigate out for 4 blocks, the most simple farm is a 9square field with one water block in the center.
 
-lily pads can be used to step on
+lily pads can be used to step on placed on water
+
+dry tilled land around the edge of the planted field increases the vitality of the crops at the edge of the field
 
 Farm types:
 ===========
@@ -32,7 +34,14 @@ wheat farm (seed source tall grass, wheat harvest)
 
 potato farm (source NPC villages, rare zombie drop)
 
-carrot farm (source NPC villages, rare zombie drop)
+carrot farm 
+==========
+
+(source NPC villages, rare zombie drop) used to breed pigs, a crafted golden carrot can steer a saddled pig
+
+carrots also help tame horses
+
+
 
 pumpkin farm (source wild pumpkins on a crafting grid)
 
