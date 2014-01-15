@@ -183,6 +183,12 @@ can block the flow of lava and water
 
 arrows pass through sugar cane
 
+snow and ice will uproot sugar canes
+
+removing the water source will also uproot them allowing auto harvest
+
+
+
 Cactus farm:
 =============
 
@@ -200,12 +206,20 @@ cactus can create a unique defensive fence against hostile mobs
 
 does not respond to bonemeal
 
+position dependent: only grow when chunk is loaded meaning player is nearby
+
 tree farm
 =========
 
 farmed on dirt, needs space,
 
 the cavern must be at leat 5 blocks high, 8 or 12 is better
+
+trees are crafted to create wood which is used in numerous crafting recipes
+
+saplings can be planted or used as furnace fuel
+
+saplings are position dependent: only grow when chunk is loaded meaning player is nearby
 
 Coco Farm
 ==========
@@ -227,6 +241,35 @@ they can be easily propagated underground in mines.
 Vines
 =======
 
+found in swamp and jungle biomes
+
+can be collected with water
+
+can be placed against a solid block and will grow
+
+vines on a solid block can be climbed like ladders
+
+collected with shears
+
+vines block the vision of mobs yet can have arrows shot through them
+
+vines grow in any light level
+
+best harvested in sections from the bottom up
+
+bonemeal does not work
+
+vines are best kept out of animal breeding areas as the mobs climb them and take damage falling
+
+
+Lily Pads
+=========
+
+generated in swamp biomes and a collected botanical.
+
+can be collected as fishing "trash" so are renewable
+
+not really farmable however quite useful on the farm as a water bridge.
 
 
 Nettherrack
