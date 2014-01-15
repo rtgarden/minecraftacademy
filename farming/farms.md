@@ -229,6 +229,14 @@ breaking leaf blocks or waiting for them to decay may yeild saplings
 
 when breaking dark oak apples may be dropped as well as saplings
 
+apples can be used to tame horses
+
+apples can be crafted into golden apples
+
+golden apples have magical protective properties
+
+golden apples can be used to breed TAMED horses.
+
 Coco Farm
 ==========
 
