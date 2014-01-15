@@ -44,7 +44,9 @@ Auto harvesting with water displaces wheat, carrots and potatoes
 
 or it can be placed and retreived by dispensers with water buckets in them. This does
 
-not revert the tilled state of the land back to untilled.
+not revert the tilled state of the land back to untilled. 
+
+Water can be used to convey the items into a hopper, and also using a hopper into a chest.
 
 pistons
 -------
@@ -56,6 +58,11 @@ pistons also by moving the tilled dirt blocks harvest the crops planted on them
 pistons can also be used directly on the crop on the block, however this
 
 destroys the tilled state of the land so that it has to be worked with a hoe.
+
+
+usually water is also used with the piston systems to channel the resulting crops
+
+into a hopper/chest.
 
 
 Other Botanicals:
