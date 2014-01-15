@@ -1,9 +1,13 @@
 Types of farming systems :
 ====================================================
 
+these can all be created indoors with lots of light to use them without
+
+having to worry about mobs. Torches and jack o lanterns provide light
+
 
 need adjacent water (and light level 9 or more)
----------------------------------
+-----------------------------------------------
 
 wheat, sugar cane, carots, potatoes, pumkin, melon
 
@@ -17,17 +21,59 @@ irrigation networks, however of course existing water can be used for ad hoc far
 
 this rule from the wiki means that every 7 blocks if there is a drop the water renews its flow
 
-this creates terraced fields 7 deep for auto-harvesting with water which displaces wheat, carrots and potatoes
-
-(as well as grass and rail)
+this creates terraced fields 7 deep for auto-harvesting.
 
 water will irrigate out for 4 blocks, the most simple farm is a 9square field with one water block in the center.
 
-lily pads can be used to step on placed on water
+lily pads can be used to step on when placed on water
 
 dry tilled land around the edge of the planted field increases the vitality of the crops at the edge of the field
 
 crops (except cane) can be cultivated on dry tilled dirt they jusy grow very slow
+
+
+Auto Harvesting Tactics:
+=========================
+
+water
+-----
+
+Auto harvesting with water displaces wheat, carrots and potatoes
+
+(as well as grass and rail), the water can be controlled with pistons
+
+or it can be placed and retreived by dispensers with water buckets in them. This does
+
+not revert the tilled state of the land back to untilled.
+
+pistons
+-------
+
+pistons can be used to control water flow,
+
+pistons also by moving the tilled dirt blocks harvest the crops planted on them
+
+pistons can also be used directly on the crop on the block, however this
+
+destroys the tilled state of the land so that it has to be worked with a hoe.
+
+
+Other Botanicals:
+=================
+
+
+Flowers
+-------
+
+instantly grass and some flowers appear when you put bonemeal on plain grass dirt blocks
+
+flowers do not spread or reproduce themselves.
+
+right clicking larger flowers with bonemeal makes a copy of the plant.
+
+
+
+
 
 Farm types:
 ===========
@@ -75,17 +121,21 @@ cactus farm:
 
 must be planted on sand
 
+overhanging blocks can break off cactus as it grows making easy gathering
+
 tree farm
 =========
 
-these can all be created indoors with lots of light to use them without
 
-having to worry about mobs
 
 the cavern must be at leat 5 blocks high 8 or 12 is better
 
 mushroom farm
 ============
+
+
+Other Types of non botanical Farming:
+====================================
 
 ice farm
 ========
