@@ -71,7 +71,11 @@ Farm types:
 wheat farm
 -----------
 
-(seed source tall grass, wheat harvest)
+(seed source tall grass,)
+
+harvesting wheat yields seeds and wheat
+
+seeds are used to breed chickens
 
 wheat is used to breed cows and sheep, and tame horses
 
