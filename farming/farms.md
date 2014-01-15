@@ -65,23 +65,6 @@ usually water is also used with the piston systems to channel the resulting crop
 into a hopper/chest.
 
 
-Other Botanicals:
-=================
-
-
-Flowers
--------
-
-instantly grass and some flowers appear when you put bonemeal on plain grass dirt blocks
-
-flowers do not spread or reproduce themselves.
-
-right clicking larger flowers with bonemeal makes a copy of the plant.
-
-
-
-
-
 Farm types:
 ===========
 
@@ -152,17 +135,56 @@ melons can be sliced, slices can be eaten. each slice can be crafted for seeds
 
 pistons can be used to break melons into a hopper collector
 
-sugar cane farm:
+
+
+Other Botanicals:
 =================
 
-must be planted on sand
 
-cactus farm:
+Flowers
+-------
+
+instantly grass and some flowers appear when you put bonemeal on plain grass dirt blocks
+
+flowers do not spread or reproduce themselves.
+
+right clicking larger flowers with bonemeal makes a copy of the plant.
+
+flowers can be crafted into dyes
+
+
+
+Sugar Canes farm:
+=================
+
+sugar canes are three high and if you leave the bottom block they will regrow
+
+must be planted on grass, dirt and sand adjacent to water
+
+cane is crafted into sugar which is a component of pumkin pie and cake.
+
+Sugar canes can be crafted into paper
+
+are a component of some potions and fireworks rockets
+
+paper is made into books with leather and together with planks books create bookcases
+
+bookcases foem enchantment tables
+
+Cactus farm:
 =============
+
+cactus are 3 high, and if you leave the base block they regrow
 
 must be planted on sand
 
 overhanging blocks can break off cactus as it grows making easy gathering
+
+using hoppers this can be continuous
+
+cactus can be crafted into dye
+
+cactus can create a unique defensive fence against hostile mobs
 
 tree farm
 =========
@@ -189,7 +211,7 @@ mushrooms spread autonomously to adjacent blocks.
 they can be easily propagated underground in mines.
 
 
-nettherrack
+Nettherrack
 ============
 
 needs soul sand, found in the nether
@@ -198,10 +220,10 @@ needs soul sand, found in the nether
 Other Types of non botanical Farming:
 ====================================
 
-ice farm
+Ice farm
 ========
 
-music disc
+Music disc
 ==========
 
 
