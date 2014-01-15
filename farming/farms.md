@@ -133,12 +133,28 @@ overhanging blocks can break off cactus as it grows making easy gathering
 tree farm
 =========
 
+farmed on dirt, needs space,
+
+the cavern must be at leat 5 blocks high, 8 or 12 is better
+
+Coco Farm
+==========
+
+farmed on logs
 
 
-the cavern must be at leat 5 blocks high 8 or 12 is better
+
 
 mushroom farm
 ============
+
+dirt and even stone in low light levels
+
+
+nettherrack
+============
+
+needs soul sand, found in the nether
 
 
 Other Types of non botanical Farming:
