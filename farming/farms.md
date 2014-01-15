@@ -219,7 +219,15 @@ trees are crafted to create wood which is used in numerous crafting recipes
 
 saplings can be planted or used as furnace fuel
 
+wood can be smelted into charcoal
+
 saplings are position dependent: only grow when chunk is loaded meaning player is nearby
+
+using shears you can gather leaf blocks
+
+breaking leaf blocks or waiting for them to decay may yeild saplings
+
+when breaking dark oak apples may be dropped as well as saplings
 
 Coco Farm
 ==========
