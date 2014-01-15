@@ -98,7 +98,9 @@ potato farm
 carrot farm 
 ==========
 
-(source NPC villages, rare zombie drop) used to breed pigs, a crafted golden carrot can steer a saddled pig
+(source NPC villages, rare zombie drop) used to breed pigs, 
+
+a crafted golden carrot can steer a saddled pig
 
 carrots also help tame horses
 
@@ -109,14 +111,28 @@ pumpkin farm
 
 not good for water harvest method
 
-(source wild pumpkins on a crafting grid)
+(source wild pumpkins found in several biomes, seeds in chests)
+
+seeds are crafted on a grid
+
+pumkins are best harvested with an ax
+
+pistons can be used to harvest pumpkins and push them into hoppers
 
 melon farm
 ===========
 
 not good for water harvest method
 
-(source wild melon,)
+melons can be crafted into golden melon slices using golden nuggets and one slice
+
+(source wild melon, found in the jungle, seeds in chests, villagers)
+
+no preffered tool
+
+melons can be sliced, each slice can be crafted for seeds
+
+pistons can be used to break melons into a hopper collector
 
 sugar cane farm:
 =================
@@ -150,6 +166,10 @@ mushroom farm
 
 dirt and even stone in low light levels
 
+mushrooms spread autonomously to adjacent blocks.
+
+they can be easily propagated underground in mines.
+
 
 nettherrack
 ============
@@ -163,7 +183,8 @@ Other Types of non botanical Farming:
 ice farm
 ========
 
-
+music disc
+==========
 
 
 MOB farming:
