@@ -1,12 +1,12 @@
 Types of farming systems :
 ====================================================
 
-these can all be created indoors with lots of light to use them without
+these can all be created indoors with lots of light so you can use them without
 
 having to worry about mobs. Torches and jack o lanterns provide light
 
 
-need adjacent water (and light level 9 or more)
+Need adjacent water (and light level 9 or more)
 -----------------------------------------------
 
 wheat, sugar cane, carots, potatoes, pumkin, melon
