@@ -83,12 +83,20 @@ wheat can be crafted into haybales
 
 wheat can be crafted into bread using 3 wheat on a crafting table
 
-
+wheat is chunk memory dependent and will only grow when you are nearby
 
 potato farm
 =============
 
 (source NPC villages, rare zombie drop)
+
+can use bonemeal on them
+
+occasionally a poisonous potato is dropped
+
+fortune enchanted items wil gather more potatoes
+
+cooking a potato yields a baked potato
 
 carrot farm 
 ==========
@@ -208,7 +216,7 @@ does not respond to bonemeal
 
 position dependent: only grow when chunk is loaded meaning player is nearby
 
-tree farm
+Tree farm
 =========
 
 farmed on dirt, needs space,
@@ -237,12 +245,18 @@ golden apples have magical protective properties
 
 golden apples can be used to breed TAMED horses.
 
-Coco Farm
+Cocoa pod Farm
 ==========
 
-farmed on logs
+found on logs in the jungle
 
+farmed on jungle wood logs or trees
 
+cocoa beans and wheat crafted makes a cookie
+
+cocoa beans crafted alone makes a dye product
+
+pistons and water dislodge cocoa beans
 
 
 mushroom farm
@@ -288,10 +302,24 @@ can be collected as fishing "trash" so are renewable
 not really farmable however quite useful on the farm as a water bridge.
 
 
-Nettherrack
+Nether Wort
 ============
 
-needs soul sand, found in the nether
+grows exclusivey on soul sand 
+
+found in the nether in fortresses growing near stairs
+
+can be grown anywhere on sould sand
+
+affected by fortune on harvesting tools
+
+nether wort seeds forms the base for many brewing potions the "akward potion"
+
+harvesting nether wort yields nether wort seeds
+
+nether wort seed can be used to breed chickens
+
+
 
 
 Other Types of non botanical Farming:
@@ -299,6 +327,8 @@ Other Types of non botanical Farming:
 
 Ice farm
 ========
+
+above block --- snow falls and ice forms
 
 Music disc
 ==========
