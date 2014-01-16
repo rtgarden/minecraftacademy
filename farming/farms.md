@@ -11,7 +11,6 @@ Need adjacent water (and light level 9 or more)
 
 wheat, sugar cane, carots, potatoes, pumkin, melon
 
-(if possible alternate rows)
 
 water is generally gathered from a spring or ocean with a bucket and placed in
 
@@ -328,7 +327,9 @@ Other Types of non botanical Farming:
 Ice farm
 ========
 
-above block --- snow falls and ice forms
+above block --- snow falls and ice forms.
+
+using water you can make ice
 
 Music disc
 ==========
