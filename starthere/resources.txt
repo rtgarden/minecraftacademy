@@ -1,13 +1,17 @@
-basic list of sites and minecraft resources:
+Basic list of sites and minecraft resources:
+===========================================
 
+wiki:
 
 http://minecraft.gamepedia.com/Minecraft_Wiki
+
+minecraft pi project:
 
 pi download for free
 
 http://pi.minecraft.net/?page_id=10
 
-minecraft forums
+minecraft forums:
 
 http://www.minecraftforum.net/forum
 
@@ -47,9 +51,26 @@ The first mob you want to kill is a spider if possible
 
 we really want to get 2 spider threads from killing spiders
 
+crafting a fishing pole from them FIRST
+
 this might drop from one spider or two
 
-spiders also drop spider eyes sometimes, save it for later in your chest
+spiders also drop spider eyes sometimes, save it for later in your chest.
+
+you may want to develop your base for the first few days along with fishing.
+
+Build a base:
+==========
+
+crafting table, chests, furnace
+
+a door with a view so monsters do not ambush you
+
+a way to protect from spiders
+
+once you have 2 wool from killing sheep (or shearing them) you can build a bed
+
+sleeping in a bed at night you avoid monsters and fewer spawn overall.
 
 fishing:
 =======
