@@ -15,37 +15,58 @@ crafting activities:
 
 save old egg cartons and newspaper to make paper
 
-*make books: use existing paper and simple thread binding
+*make books: 
 
-* learn to use flint and steel to make a fire (know any black powder enthusiasts?)
+use existing paper and simple thread binding
+
+* learn to use flint and steel to make a fire: use  youtube (or know any black powder enthusiasts?)
+
+get the flints and steel on ebay
+
+* get square lapis lazuli beads and make charms, necklaces or keychains with them. have all the needed findings.
+
+
+* Paper Boats: make and float some paper boats. or even balsa wood.
 
 foods from the game:
 --------------------
 
-apples, carrots, loaf of bread, green jello slime blocks, eggs (hardboiled), chocolate chip cookies,
+whole red and gold apples, whole carrots with top, loaf of bread baguette style,
 
-sugar cane, cooked chicken, fish, pork and beef are all native to the game.
+eggs (hardboiled), chocolate chip cookies,
 
-salmon, square cake with white and red deco, 
+whole actual sugar cane, baked potato, cooked chicken (roasted whole would be perfect), 
 
-watermelon (sliced), pumpkin pie, potion bottles "potion of enchanting"
+smoked fish, cooked pork and beef steak are all native foods to the game.
+
+salmon lox and bread, square cake with white and red deco, green jello slime blocks,
+
+watermelon (sliced), pumpkin pie, potion bottles "potion of enchanting" all work well.
 
 a tray of brownies can easily be cut up and used for "dirt" blocks
 
 you could all make and bake the pumpkin pie together
 
+baked fish sticks and chicken sticks would also work fine.
+
 for special candy:
 ------------------
 
-blue diamonds
+blue diamonds: simple syrup/sugar candy with blueberry flavor and blue coloring
 
-redstone dust or blocks
+redstone dust or blocks: more like a taffy
 
 gold bricks, foil wrapped chocolate (simple mold)
 
 
 games:
 ------
+
+*archery:
+
+have a small target shoot set up and a few lightweight real target bows with easy arrows
+
+use arm protection and caution on the range
 
 *fishing for prizes:
 
@@ -71,3 +92,4 @@ make the boxes cut open with an "X" in the front so that when they are paper wra
 
 a simple "pick" will release the prizes
 
+*Boating: you could have an actual outing to a place that rents small boats for a boating day.
