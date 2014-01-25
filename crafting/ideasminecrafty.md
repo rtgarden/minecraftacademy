@@ -25,8 +25,18 @@ get the flints and steel on ebay
 
 * get square lapis lazuli beads and make charms, necklaces or keychains with them. have all the needed findings.
 
+also silver, gold, emerald, diamond, are all from the game.
+
+
 
 * Paper Boats: make and float some paper boats. or even balsa wood.
+
+
+*dye some wool: blue, yellow, red, pink, and grey are common game dye colors.
+
+you could felt some plain cubes first. in general felting is a great minecraft activity.
+
+*plant a garden: plant carrots, potatoes, wheat, pumpins, melons and bamboo.
 
 foods from the game:
 --------------------
