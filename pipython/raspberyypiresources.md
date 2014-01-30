@@ -32,3 +32,7 @@ http://caesarandlouie.wordpress.com/2013/12/22/minecraft-raspberry-pi-python-gee
 Instructable pi python directions:
 
 http://www.instructables.com/id/Real-World-Minecraft/?lang=ja
+
+jeffs raspberry pi resource
+
+http://ledgerlabs.us/raspberrypi/
