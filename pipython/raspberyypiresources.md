@@ -28,3 +28,7 @@ http://arghbox.files.wordpress.com/2013/06/minecraftbook.pdf
 Minecraft + Raspberry Pi + Python = Geeky heaven
 
 http://caesarandlouie.wordpress.com/2013/12/22/minecraft-raspberry-pi-python-geeky-heaven/
+
+Instructable pi python directions:
+
+http://www.instructables.com/id/Real-World-Minecraft/?lang=ja
