@@ -16,3 +16,7 @@ http://www.piprogramming.org/main/?page_id=261
 little bites of pi
 
 http://littlebytesofpi.com/index.php/resources/python-prog/python-minecraf/
+
+stuff about pi
+
+http://www.stuffaboutcode.com/2013/01/raspberry-pi-minecraft-api-basics.html
