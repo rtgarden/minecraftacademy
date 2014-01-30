@@ -19,7 +19,7 @@ What AMIDST can't do.
 ----------------------
 - Show modifications to the world.
 - Give information on individual blocks.
-- 
+ 
 
 AMIDST on GitHub
 =================
