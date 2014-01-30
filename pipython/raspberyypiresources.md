@@ -12,3 +12,7 @@ http://pi.minecraft.net/
 An Introduction to Programming Minecraft Pi Edition:
 
 http://www.piprogramming.org/main/?page_id=261
+
+little bites of pi
+
+http://littlebytesofpi.com/index.php/resources/python-prog/python-minecraf/
