@@ -24,7 +24,9 @@ zombies:
 
 a slow moving mob that can pick up items and also spawn with armor and weapons. Burns in sunlight.
 
-spawns in groups of 1-6
+spawns in groups of 1-6, and will follow an open path to the player avoiding simple traps. Damaged zombies
+
+summon other zombies nearby, and may cause many zombies to spawn (since 1.7.4).
 
 
 baby zombies:
@@ -37,7 +39,7 @@ They are faster than normal zombies and they do not burn in sunlight.
 
 
 
-curing a zombie village
+curing a zombie villager 
 -----------------------
 
 zombie villagers can be cured with a golden apple, by right clicking them with it.
@@ -49,3 +51,15 @@ into being a villager again.
 zombie drops:
 
 rotten flesh, whatever it is carrying, sometimes carrot or potato, rarely weapons or armor,
+
+
+Protecting your village from zombies:
+-------------------------------------
+
+zombie seiges used to be the norm in the game: if you stay in a village overnight or stay
+
+within (x) blocks of a village extra zombies will spawn and attack the village and villagers (and you). Zombies attack 
+
+villagers within (16) blocks
+
+
