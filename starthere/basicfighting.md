@@ -22,7 +22,9 @@ Drops: bones, arrows, rarely a bow or armor.
 zombies:
 --------
 
-a slow moving mob that can pick up items and also spawn with armor and weapons.
+a slow moving mob that can pick up items and also spawn with armor and weapons. Burns in sunlight.
+
+spawns in groups of 1-6
 
 
 baby zombies:
@@ -31,7 +33,7 @@ Zombies and zombie villagers can also spawn in a baby zombie version, which can 
 
 as well as through a single block hole. They can also spawn riding a chicken as babyzombie chicken jockeys.
 
-They are faster than normal zombies.
+They are faster than normal zombies and they do not burn in sunlight.
 
 
 
@@ -44,3 +46,6 @@ they must be sheilded from the sun, other zombies or their tendency to fight dur
 
 into being a villager again.
 
+zombie drops:
+
+rotten flesh, whatever it is carrying, sometimes carrot or potato, rarely weapons or armor,
