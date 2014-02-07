@@ -1,4 +1,4 @@
-Fighting MOBs:
+Aggressive MOBs: 
 ==============
 
 hostile mobs in minecraft mostly come out at night
@@ -6,6 +6,31 @@ hostile mobs in minecraft mostly come out at night
 without any armor on, they can easily pretty much kill you.
 
 each mob has special qualities that make them  a challenge:
+
+
+creeper:
+----------
+ spawns in light level less than (7) blocks, does not burn in sunlght, wanders into the day
+ 
+ (often despawns around noon), they will chase a player they see within (16)blocks
+ 
+ within (1) block of the player they hiss and explode creating a crater of exploded materials
+ 
+ unless the player moves 3 or more blocks away in less than 1.5 sec. Can climb ladders and vines.
+ 
+ 
+ 
+ drops: gunpowder, music discs if shot by a skeleton.
+ 
+ spiders:
+ ---------
+ 
+ pursue a player withing 16(blocks), can see through blocks, can climb. becomes nuetral in daylight (usually)
+ 
+ is two blocks wide and can go through a one block high opening. Best use a stone or metal sowrd at least,
+ 
+ bows are quite effective from a distance.
+
 
 
 skeletons: (undead)
