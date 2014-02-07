@@ -46,6 +46,7 @@ creeper:
 
  becomes nuetral in light level 10 or more. milk is the poison antidote administered using a bucket.
 
+best killed with a diamond sword.
 
 skeletons: (undead)
 ------------
