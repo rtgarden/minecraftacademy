@@ -42,9 +42,9 @@ creeper:
  
  two varieties, both poisonous, smaller blue one fits through a single block hole.
  
- found in abandoned mineshafts, along with cobwebs.
+ found in abandoned mineshafts, along with cobwebs. Cave spiders are not slowed by cobwebs.
 
- becomes nuetral in light level 10 or more. 
+ becomes nuetral in light level 10 or more. milk is the poison antidote administered using a bucket.
 
 
 skeletons: (undead)
