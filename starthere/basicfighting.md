@@ -25,12 +25,26 @@ creeper:
  spiders:
  ---------
  
- pursue a player withing 16(blocks), can see through blocks, can climb. becomes nuetral in daylight (usually)
+ pursue a player withing 16(blocks), can see through blocks, can climb and jump. 
+ 
+ becomes nuetral in daylight level 10 or more. 
  
  is two blocks wide and can go through a one block high opening. Best use a stone or metal sowrd at least,
  
  bows are quite effective from a distance.
+ 
+ sleeping in a bed reduces their numbers.
+ 
+ drops: string
+ 
+ cave spiders:
+ -------------
+ 
+ two varieties, both poisonous, smaller blue one fits through a single block hole.
+ 
+ found in abandoned mineshafts, along with cobwebs.
 
+ becomes nuetral in light level 10 or more. 
 
 
 skeletons: (undead)
