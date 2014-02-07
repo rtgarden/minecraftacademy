@@ -8,7 +8,7 @@ without any armor on, they can easily pretty much kill you.
 each mob has special qualities that make them  a challenge:
 
 
-skeletons:
+skeletons: (undead)
 ------------
 can shoot at you from (15) blocks away and chase you from (16). They will burn in sunlight unless wearing a helmet or standing in water.
 
@@ -19,14 +19,18 @@ surface skeletons only spawn if the player does not sleep in a bed at night.
 Drops: bones, arrows, rarely a bow or armor.
 
 
-zombies:
+zombies: (undead) sees player (60) blocks
 --------
 
-a slow moving mob that can pick up items and also spawn with armor and weapons. Burns in sunlight.
+a slow moving mob that can pick up items and use them, as well as spawn with armor and weapons. Burns in sunlight.
 
-spawns in groups of 1-6, and will follow an open path to the player avoiding simple traps. Damaged zombies
+spawns in groups of 1-6, and will follow an open path to the player avoiding simple traps. Behaves as a horde.  Damaged zombies
 
 summon other zombies nearby, and may cause many zombies to spawn (since 1.7.4).
+
+Zombies can "see" through windows. They are the most common mob spawning easily in dimply lit places.
+
+surface zombies only spawn if the player does not sleep in a bed at night.
 
 
 baby zombies:
@@ -58,8 +62,8 @@ Protecting your village from zombies:
 
 zombie seiges used to be the norm in the game: if you stay in a village overnight or stay
 
-within (x) blocks of a village extra zombies will spawn and attack the village and villagers (and you). Zombies attack 
+within (128) blocks of a village extra zombies will spawn and attack the village and villagers (and you). Zombies attack 
 
-villagers within (16) blocks
+villagers within (30) blocks, and may seige if the village has 40+ villagers.
 
 
