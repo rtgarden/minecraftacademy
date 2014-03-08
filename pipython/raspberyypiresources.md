@@ -1,6 +1,18 @@
 MINECRAFT RASPBERRY PI PYTHON:
 ==============================
 
+Sadly after some delving into these resources I have found there is a fair amount of dead wood.
+
+even though etting and installing python/minecraft environment is possible the initial blogs
+
+have just a few blogs, several years old that then sort of trail off.
+
+there are around a dozen existing code efforts that can be used as examples however not updated much.
+
+at this point I am looking into going straight into java scripting as in mods.
+
+--------
+
 minecraft pi python forum:
 
 http://www.minecraftforum.net/forum/216-minecraft-pi-edition/
