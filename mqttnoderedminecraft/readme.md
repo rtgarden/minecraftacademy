@@ -21,3 +21,7 @@ How-to
 Basic working understanding of using mqtt with node red using a minecraft exercise.
 
 An example exercise: build a pillar 5 blocks high. first build it in sand, next build it in stone.
+
+Another great example is to build a bridge underneath your avatar that self-bilds out ahead of you as 
+
+long as there is no obstruction. A bridge 4 wide can support a railway as well as protective gates and doors.
