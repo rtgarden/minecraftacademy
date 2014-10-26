@@ -33,4 +33,7 @@ I found much of the pippypi stuff to be decent as an introduction to python.
 
 Not much follow through in maintaining code repositories or detailing lesson plans.
 
-The node red stuff looks very promising however i need to do more hands on research.
+Javascript is used to create mods in Minecraft so there are some promising learn to javascript minecraft related
+tutorials that I need to also look into. So far the two best options are python and javascript for combining the minecraft environment with a "how to code" lesson plan.
+
+The node red stuff looks very promising however I need to do more hands on research.
